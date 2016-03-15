@@ -17,6 +17,12 @@ I hope you like it! If you want to say thanks, follow me on [Github](https://git
 
 ---
 
+## Введение
+
+Цель написания этого текста -- объединение воедино опыта построения современных распределенных систем, таких как Amazon's Dynamo, Google's Big Table и Map Reduce, Apache's Hadoop и подобных им
+
+---
+
 # 1. Basics
 
 [The first chapter](intro.html) covers distributed systems at a high level by introducing a number of important terms and concepts. It covers high level goals, such as scalability, availability, performance, latency and fault tolerance; how those are hard to achieve, and how abstractions and models as well as partitioning and replication come into play.
